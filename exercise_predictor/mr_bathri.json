@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mr-bathri-project",
+  "private_key_id": "18d13066784be9226d17d316caca110ae311b57e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmJn49gNMx6fDv\nN2xrCVZOlFi6NlVev7NEJfrUAQhJwry1d8fN2iz+/GQbuLamqV30FYAZHMmxpzST\nlQFP0JTdT0DqO44KRlBy7XediWtUjJUV9fyNgvPlO40NcYGdgL9fZ/o6Hiyf1lBL\niaQQ3t7nvsPOnFFfGrcS3fEW4PQ3Q6FNflxlRy5RM03Xuv7Y1n1NpJSoAuhHYxBU\nY3PfCCBSXNYk5IzNhOqw8lfvffHmUDTErpCJOTYRQWZsaf494aGUI+skZGUVqwH1\nYleySgq+jkSgGVEWKBJ61rL1uvFQWdKE3PaElht+viq11oytNkUY0aslm5Bgm4Gg\nkPcq8nFFAgMBAAECggEAG0PU0n3p6lZz+aV0LqplFdcFKmWRI8+8eLHs085pkEUb\nF4JU8ORdHujG+r+YhYfkiZHfp/9P383K9G7uvKzDSP/g7K8iM3BvcjSivODYkpLR\nQj3QGF7FbDgWAP8/4FtIzDyxVMkv1HjkS0kGedhA5vGoiyaeuccWBMwT7Ie0u76j\nAaU448EGNhomiEVdOa41T6/8FlaXa0Zoi9X3yyzsNraxaA1CJotj4KHECT9bQ3OO\nOT2bAmppqnHBzY50FkXjuuiIc9gX92oEU54WmUx1G5AwnM8QtKCMbNHipPbjJHsE\nLVz5pWA9mp6ouwDlpgWfTqt6LmIOAt9UYxdE7pft3wKBgQDeEdVQ9XVM5rS3eZMu\n+gw2i6edrnJQqzE+51n4nmE/AFgDmpZKc2R2JGRY6A88se3B4N2iZiE5n6/NwQ3N\nG+437DerzZyR3uRdJ1KxexMGLUEJhzkhsV97vxjYzyUlQKVad6BApQxwBRVE5rkd\nXL4JR1176XxHcpjr4pQgezne+wKBgQC/iWYSQdgwfWXsWYQl005pm/pgHw1Fekcs\nrDZlgRJ9HT9jp8t/wlb01AXSTQ/KBpoWIW/T6p7elb2gu0FNSY+shrK3a89vWBoY\nRl5XEfLMPzHUCa8+aM/xZ+iRuwzEVATEmKdK5tAF4tfj7LZTAFzgAtotHp+aUTqZ\n+CALTvL8vwKBgQDTOt9PTMuwxFntk6TesFXhpGFhaUevV8dV8DXyeKRDiw4tD2QZ\nmT1b6y3QK5wivZRMMJphGQhNiYluC04XZZPoebZSoxdk4UETIo5T55+m5nDQoWFE\nnTUXviPiRtcsYhtmvBcgpl34R719doFqXoccyFcxwFvIkkbHSRRg+RWI9QKBgBKK\ncl8CELNg8CTY5Xnj4otGlg4H83juRUWFxh49SFTkJ+a1r3VGkrRQcd/Rpd2glfne\ncrzI0Wgqhpiwh7m7jTTeNR6cSRA2LxB6f1deXWp4E5K6/UPFUZvEuzagLLQ0jeGa\nBVey0CBBvTRLDbsrJdJpdEU52alOg6Wz5yYxFkRxAoGBANLncsn9UVHh/XLZJiYN\nwJ6p/DhkxHY7WWtWK29sfkeA21MBQE/0jvY4czgHaS/qQ5S3jrrAW4i6P/MknHQ3\nMDUM7EOxzBWWP7tkti/2MSPj2I+y4Q5hDtKYCQbWVmuV9xqGEftPs/uCIkWkF/hX\nFjlUGpz90fDyisQFXhBnocRn\n-----END PRIVATE KEY-----\n",
+  "client_email": "mr-bathri-account@mr-bathri-project.iam.gserviceaccount.com",
+  "client_id": "102009009664062284512",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mr-bathri-account%40mr-bathri-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
